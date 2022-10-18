@@ -1,1 +1,1 @@
-# NFTLaunchKit
+# Bootcamp by Encode Club 
