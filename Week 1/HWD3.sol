@@ -12,7 +12,7 @@ contract BootcampContract {
         owner = msg.sender;
     }
 
-    function something() external view returns (address) {
+    function task() external view returns (address) {
         if (msg.sender == owner){
             return 0x000000000000000000000000000000000000dEaD;
         } else {
